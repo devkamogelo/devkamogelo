@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kamo-Moswathupa
 - 👀 I’m interested in Game and Web development
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning React
 - 📫 How to reach me devkamogelo@gmail.com
 
 <!---
