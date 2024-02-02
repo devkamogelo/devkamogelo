@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React
 - 📫 How to reach me devkamogelo@gmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devkamogeloshow_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devkamogelo&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=devkamogelo&theme=merko&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 
